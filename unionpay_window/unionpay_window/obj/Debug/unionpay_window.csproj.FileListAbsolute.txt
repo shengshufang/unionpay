@@ -1,0 +1,16 @@
+F:\unionpay\unionpay_window\unionpay_window\unionpay_window\bin\Debug\unionpay_window.exe.config
+F:\unionpay\unionpay_window\unionpay_window\unionpay_window\obj\Debug\unionpay_window.csprojResolveAssemblyReference.cache
+F:\unionpay\unionpay_window\unionpay_window\unionpay_window\obj\Debug\unionpay_window.FormLogin.resources
+F:\unionpay\unionpay_window\unionpay_window\unionpay_window\obj\Debug\unionpay_window.Properties.Resources.resources
+F:\unionpay\unionpay_window\unionpay_window\unionpay_window\obj\Debug\unionpay_window.csproj.GenerateResource.Cache
+F:\unionpay\unionpay_window\unionpay_window\unionpay_window\bin\Debug\unionpay_window.exe
+F:\unionpay\unionpay_window\unionpay_window\unionpay_window\bin\Debug\unionpay_window.pdb
+F:\unionpay\unionpay_window\unionpay_window\unionpay_window\obj\Debug\unionpay_window.exe
+F:\unionpay\unionpay_window\unionpay_window\unionpay_window\obj\Debug\unionpay_window.pdb
+F:\unionpay\unionpay_window\unionpay_window\unionpay_window\bin\Debug\Interop.WMPLib.dll
+F:\unionpay\unionpay_window\unionpay_window\unionpay_window\bin\Debug\AxInterop.WMPLib.dll
+F:\unionpay\unionpay_window\unionpay_window\unionpay_window\obj\Debug\Interop.WMPLib.dll
+F:\unionpay\unionpay_window\unionpay_window\unionpay_window\obj\Debug\AxInterop.WMPLib.dll
+F:\unionpay\unionpay_window\unionpay_window\unionpay_window\obj\Debug\unionpay_window.csproj.ResolveComReference.cache
+F:\unionpay\unionpay_window\unionpay_window\unionpay_window\obj\Debug\unionpay_window.MainForm.resources
+F:\unionpay\unionpay_window\unionpay_window\unionpay_window\obj\Debug\unionpay_window.unionpay_charge.resources
