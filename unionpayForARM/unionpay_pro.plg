@@ -1,0 +1,74 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+F:\unionpay\unionpayForARM\unionpay_pro.uvproj
+Project File Date:  06/27/2018
+
+<h2>Output:</h2>
+compiling LED_Display.c...
+LED_Display.c - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling Startup.s...
+compiling LED_Display.c...
+compiling main.c...
+main.c(44): warning:  #223-D: function "delay" declared implicitly
+main.c:                 delay(2);  //—” ±     
+main.c:                 ^
+main.c(85): warning:  #111-D: statement is unreachable
+main.c:         return 0;
+main.c:         ^
+main.c: main.c: 2 warnings, 0 errors
+linking...
+unionpay_pro.axf: Warning: L6914W: option ropi ignored when using --scatter.
+Program Size: Code=4640 RO-data=44 RW-data=32 ZI-data=1512  
+unionpay_pro.axf: Finished: 0 information, 1 warning and 0 error messages.
+FromELF: creating hex file...
+"unionpay_pro.axf" - 0 Error(s), 3 Warning(s).
+Load "F:\\unionpay\\unionpayForARM\\unionpay_pro.AXF" 
+VTarget = 3.325V
+Info: TotalIRLen = 4, IRPrint = 0x01
+Info: TotalIRLen = 4, IRPrint = 0x01
+Info: RTCK reaction time is approx. 189ns
+Info: Auto JTAG speed: Adaptive
+Info: Core does not stop after Reset, setting WP to stop it.
+***JLink Warning: PC of target system has unexpected value of 0x40000000 after reset.
+DLL version V4.15n, compiled Jun 18 2010 19:55:09
+Firmware: J-Link ARM V8 compiled Jul 17 2014 12:31:18
+Hardware: V8.00
+Hardware-Breakpoints: 2
+Software-Breakpoints: 2048
+Watchpoints:          0
+Found 1 JTAG device, Total IRLen = 4:
+ Id of device #0: 0x4F1F0F0F
+ARM7 identified.
+Using adaptive clocking instead of fixed JTAG speed.
+Info: TotalIRLen = 4, IRPrint = 0x01
+Info: TotalIRLen = 4, IRPrint = 0x01
+JTAG speed: 1000 kHz
+Erase Done.
+Programming Failed!
+Load "F:\\unionpay\\unionpayForARM\\unionpay_pro.AXF" 
+VTarget = 3.325V
+Info: TotalIRLen = 4, IRPrint = 0x01
+Info: TotalIRLen = 4, IRPrint = 0x01
+Info: RTCK reaction time is approx. 252ns
+Info: Auto JTAG speed: Adaptive
+Info: Core does not stop after Reset, setting WP to stop it.
+***JLink Warning: PC of target system has unexpected value of 0x40000000 after reset.
+DLL version V4.15n, compiled Jun 18 2010 19:55:09
+Firmware: J-Link ARM V8 compiled Jul 17 2014 12:31:18
+Hardware: V8.00
+Hardware-Breakpoints: 2
+Software-Breakpoints: 2048
+Watchpoints:          0
+Found 1 JTAG device, Total IRLen = 4:
+ Id of device #0: 0x4F1F0F0F
+ARM7 identified.
+Using adaptive clocking instead of fixed JTAG speed.
+Info: TotalIRLen = 4, IRPrint = 0x01
+Info: TotalIRLen = 4, IRPrint = 0x01
+JTAG speed: 1000 kHz
+Erase Done.
+Programming Failed!

@@ -1,0 +1,21 @@
+*** Creating Trace Output File 'unionpay_pro.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '"startup.o"'
+### List of Objects: adding '"led_display.o"'
+### List of Objects: adding '"main.o"'
+### ADS-LD Command completed:
+--cpu ARM7TDMI "startup.o" "led_display.o" "main.o" --ropi --strict --scatter "unionpay_pro.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\unionpay_pro.map" -o "unionpay_pro.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: 'unionpay_pro.axf'
+### ADS-LD Command File: 'unionpay_pro.lnp'
+### Checking for dirty Components...
+### Creating CmdFile 'unionpay_pro.lnp', Handle=0x00000A0C
+### Writing '.lnp' file
+### ADS-LD Command file 'unionpay_pro.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.
